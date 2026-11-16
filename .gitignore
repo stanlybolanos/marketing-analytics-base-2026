@@ -1,2 +1,4 @@
 resuelto*
 *.zip
+.env
+.cursor
