@@ -1,6 +1,7 @@
 customer_id,descuento_pct,mensaje,estado
-737,20,Hola de nuevo en Dallas. Extrañamos tus visitas diarias y tus 79 compras anteriores. Pásate por aquí y disfruta de tu café con este beneficio exclusivo.,aprobada
-1337,10,Hola en Dallas. Extrañamos tus trayectos diarios y tus 16 compras anteriores. Pasa por tu café favorito con este descuento especial.,aprobada
-551,5,Hola en San Francisco. Han pasado varios días desde tus primeras 5 compras en la oficina. Pásate por aquí y aprovecha este descuento de bienvenida de regreso.,aprobada_automatica
-1518,5,Hola en Washington DC. Hace tiempo realizaste tu primera compra y nos encantaría verte de nuevo. Disfruta este pequeño descuento en tu café.,aprobada_automatica
-1048,5,Hola en Austin. Recordamos tu visita pasada y queremos invitarte a probar más de nuestro menú. Usa este descuento en tu próxima compra.,aprobada_automatica
+438,15,Hola de nuevo en Dallas. Notamos que llevas tiempo sin visitarnos y extrañamos tus compras frecuentes. Disfruta un 15% de descuento en tu café favorito.,aprobada
+1171,10,Hola en Washington DC. Extrañamos tus visitas como oficinista por aquí. Pasa por tu café favorito con un 10% de descuento.,aprobada
+551,5,Hola en San Francisco. Hace tiempo que no disfrutas de nuestra cafetería. Pasa por aquí y aprovecha un 5% de descuento en tu bebida.,aprobada_automatica
+1048,5,Hola en Austin. Esperamos que vuelvas a probar nuestros productos. Te regalamos un 5% de descuento en tu próxima visita.,aprobada_automatica
+1518,5,Hola en Washington DC. Fue un gusto verte en el pasado. Te invitamos a regresar con un 5% de descuento en tu café.,aprobada_automatica
+1156,20,Hola en Portland. Eres uno de nuestros clientes más valiosos con 230 compras acumuladas. Queremos verte regresar con un 20% de descuento especial.,aprobada
